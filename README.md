@@ -23,7 +23,7 @@ It took ~25 hours of training to reach its first 400 points reward on Breakout e
 - mpi4py 3.0.0
 
 ## Usage
-Set up hyper-parameters in ![config.py](./config.py). To run the program:
+Set up hyper-parameters in [config.py](./config.py). To run the program:
 ```
 python train.py
 ```
