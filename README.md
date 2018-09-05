@@ -1,4 +1,4 @@
-# Deep-Q-Network
+# Deep Q Network
 <img src="video.gif" width="160" height="210" />
 Reproduce performance (rewards) of the following deep reinforcement learning methods using TensorFlow:
 
