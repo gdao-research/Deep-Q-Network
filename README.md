@@ -11,7 +11,7 @@ Reproduce performance (rewards) of the following deep reinforcement learning met
 + Double DQN:
 [Deep Reinforcement Learning with Double Q-Learning](https://arxiv.org/pdf/1509.06461.pdf)
 
-This is an easy to understand the DQN structure as well as memory efficiency implementation that can store 1M transitions using ~8GB memory. The model architecture used in this code is not quite similar to the one described in the original DQN paper. I have tested with Pong, Breakout, and MsPacman so far.
+This is an easy to understand and modify the DQN structure as well as memory efficiency implementation that can store 1M transitions using ~8GB memory. The model architecture used in this code is not quite similar to the one described in the original DQN paper. I have tested with Pong, Breakout, and MsPacman so far.
 
 It took ~25 hours of training to reach its first 400 points reward on Breakout evaluation using 1 GTX 1080.
 
